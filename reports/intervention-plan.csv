@@ -1,0 +1,7 @@
+order,asset_id,gallery,curator,priority,condition,action
+1,A-08,Gallery West,Dan,LOW,NO_VALID_READING,TAKE_READING
+2,A-06,Vault,Cara,LOW,NO_VALID_READING,TAKE_READING
+3,A-05,Gallery West,Dan,HIGH,UV_RISK,INSTALL_UV_FILTER
+4,A-02,Gallery East,Bo,LOW,UV_RISK,INSTALL_UV_FILTER
+5,A-07,Gallery East,Bo,HIGH,LIGHT_EXCEEDED,REDUCE_LIGHT
+6,A-01,Gallery North,Alina,HIGH,LIGHT_EXCEEDED,REDUCE_LIGHT
